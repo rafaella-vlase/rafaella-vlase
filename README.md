@@ -1,4 +1,3 @@
-[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://img.freepik.com/premium-vector/fingerprint-scan-biometrics-identify-authorization-computer-data-protection-security-vector-illustration_3482-6649.jpg?size=626&ext=jpg](https://img.freepik.com/premium-vector/cute-3d-human-hands-work-computer-keyboard-programming-development-concept-view-from_3482-8861.jpg)))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rafaella</h1>
 <h3 align="center">A passionate Computer Science student from Cluj-Napoca, Romania</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
