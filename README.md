@@ -5,7 +5,7 @@
 
 - 👋 I'm looking forward to learning **new programming languages**
 
-- 🌱 I’m currently learning **Python, Java, LaTeX**
+- 🌱 I’m currently learning **Python, C#, LaTeX**
 
 - 👨‍💻 All of my projects are available at [github.com/rafaella-vlase](github.com/rafaella-vlase)
 
